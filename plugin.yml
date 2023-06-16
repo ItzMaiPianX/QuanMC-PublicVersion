@@ -1,0 +1,10 @@
+name: QuanMC
+api: ["4.0.0"]
+version: "1.0.0"
+author: QuzaNetwork(OwoNico)
+authors:
+  - QuzaNetwork(OwoNico)
+  - QuzaNetwork(MaiPian)
+main: owonico\Main
+description: "QuzaNetwork offical public practice core"
+website: "dsc.gg/quza"
